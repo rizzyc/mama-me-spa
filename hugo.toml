@@ -1,6 +1,6 @@
 baseURL = 'https://mama-me-spa-hugo.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My sample website'
 theme = 'roxo-hugo'
 summarylength = 25
 

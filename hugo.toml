@@ -78,7 +78,7 @@ summarylength = 25
     heading               = "Handcrafted All Natural Skincare"
     tagline               = "MADE WITH LOVE BY MAMA AND ME"
     primary_button        = "See Our Products"
-    primary_button_url    = "portfolio"
+    primary_button_url    = "products"
     secondary_button      = "Order our Products"
     secondary_button_url  = "contact"
 
